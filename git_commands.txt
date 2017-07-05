@@ -1,0 +1,8 @@
+GIT COMMANDS
+
+git clone url
+git status 
+git add 'file name'
+git status
+git commit -m "Message"
+git push
